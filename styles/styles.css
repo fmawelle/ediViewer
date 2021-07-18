@@ -1,0 +1,19 @@
+body {
+  border: 1px black;
+  border-radius: 35px;
+  padding: 10px;
+  color: #100d1d;
+  background-color: rgb(235, 230, 230);
+}
+
+.edi_type {
+  font-weight: bold;
+}
+h1,
+h2,
+h3 {
+  text-shadow: 3px 3px rgb(236, 233, 233);
+}
+li {
+  font-size: 17px;
+}

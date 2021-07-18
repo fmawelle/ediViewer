@@ -1,0 +1,116 @@
+* {
+  border-radius: 5px;
+  font-size: 15px;
+  background-color: #eceff1;
+}
+
+QListWidget {
+  border-radius: 5px;
+  margin-left: 5px;
+  font-size: large;
+  border-radius: 1px;
+  min-width: 8em;
+  background-color: #eceff1;
+}
+
+QMenuBar {
+  color: rgb(17, 2, 2);
+  background-color: #ced7db;
+  font-size: 15px;
+}
+QMenu {
+  padding: 15px;
+  background-color: #ced7db;
+}
+
+QMenuBar#tool_bar {
+  border-radius: 0px;
+  padding: 10px;
+}
+
+#context_buttons_toolbar {
+  margin-top: 0.5px;
+  border-radius: 0px;
+  padding: 1.5px;
+  background-color: #ced7db;
+  text-shadow: 10px 10px;
+}
+
+QPushButton {
+  padding: 15px;
+  border: 0.5px solid rgb(137, 141, 148);
+  color: rgb(17, 2, 2);
+  background-color: #c1d1da;
+  min-width: 50px;
+}
+#separator {
+  padding: 20px;
+}
+QPushButton#open_file,
+QPushButton#search_file_button,
+QPushButton#exit,
+QPushButton#search,
+QPushButton#extract {
+  border-radius: 2px;
+}
+
+QMenu:hover,
+QToolButton:hover,
+QPushButton:hover,
+QMenu::item:selected,
+QMenuBar:item:selected {
+  background-color: #8191d4;
+  color: white;
+  border-radius: 5px;
+  padding: 15px;
+  text-decoration: underline;
+}
+QPushButton:disabled {
+  background-color: rgb(191, 194, 185);
+}
+
+QListWidget:item:selected,
+QListWidget:item:hover {
+  background-color: #8191d4;
+  color: white;
+}
+
+QLineEdit {
+  border: 3px solid rgb(17, 2, 2);
+  min-width: 15em;
+}
+#details_label,
+#transact_list_label,
+#files_loaded_label {
+  font-weight: bold;
+  font-size: 15px;
+  margin: 10px 0px 10px 2px;
+}
+
+QPlainTextEdit {
+  background-color: rgb(232, 236, 232);
+  background-color: rgb(222, 232, 240);
+  border-radius: 5px;
+  font-size: 15px;
+  font-family: sans-serif;
+  padding: 5px 1px 5px 15px;
+  margin-right: 10px;
+}
+
+#progress_tool_bar {
+  padding: 10px;
+}
+
+#progress_bar,
+QProgressBar {
+  color: #ffffff;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 20px;
+  height: 20px;
+}
+
+QProgressBar::chunk {
+  border-radius: 5px;
+  background-color: rgb(44, 116, 59);
+}
