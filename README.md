@@ -36,3 +36,6 @@ standards](https://www.pesc.org/pesc-approved-standards-1.html)
     -   Double click on the transaction name to extract a file
 
 **Note:** Due to size limitations, I was not able to upload the database file, but i can provide that upon request. Contact me if you need it.
+
+### Download .exe file 
+The .exe file is available for download from sourceforge https://sourceforge.net/projects/ediviewer/
