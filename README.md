@@ -1,5 +1,6 @@
 # EdiViewer version 1.5.0
 ==========================
+
 View, Edit and extract edi transactions from PESC standard approved Edi files
 
 Thank you for using EdiViewer Version 1.5.0. Below you will find
@@ -35,4 +36,3 @@ Edit and Extract Individual transactions into separate files
 
 -   Double click on the transaction name to extract a file
 
-This is a paragraph text
