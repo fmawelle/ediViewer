@@ -16,22 +16,23 @@ standards](https://www.pesc.org/pesc-approved-standards-1.html)
 
 ### Supported Actions
 
-View edi Transactions in a file
+1. View edi Transactions in a file
 
--   Load the file to the viewer using Open File menu
--   Once the file is open, single click the file to see list of
-    transactions
--   Single click on the transaction (name) to see details of the
-    transaction (application/transaction)
+    -   Load the file to the viewer using Open File menu
+    -   Once the file is open, single click the file to see list of
+        transactions
+    -   Single click on the transaction (name) to see details of the
+        transaction (application/transaction)
 
-Search Transaction by first, last, and/or middle names
+2. Search Transaction by first, last, and/or middle names
 
-Search in file by keywords
+3. Search in file by keywords
 
--   Double click the file name to search by within the file by name or
-    keyword
+    -   Double click the file name to search by within the file by name or
+        keyword
 
-Edit and Extract Individual transactions into separate files
+4. Edit and Extract Individual transactions into separate files
 
--   Double click on the transaction name to extract a file
+    -   Double click on the transaction name to extract a file
 
+**Note:** Due to size limitations, I was not able to upload the database file, but i can provide that upon request. Contact me if you need it.
